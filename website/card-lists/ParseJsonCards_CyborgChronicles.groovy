@@ -1,7 +1,7 @@
 /**
  * @author github.com/Phrancis
  * Created 2015-07-07
- * Please follow the instructions to export cards from the game to CSV before using this script. 
+ * Please follow the instructions to export cards from the game to JSON before using this script. 
  */
 
 import groovy.json.JsonSlurper
